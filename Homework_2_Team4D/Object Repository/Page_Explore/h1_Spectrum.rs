@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Spectrum</name>
+   <tag></tag>
+   <elementGuidId>fdd58345-c54c-4ea8-a370-4ae4a39bbdc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/div/div[2]/div/div/div/section/div/div[2]/a/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__Name-sc-1glfqlb-6 drOdjP</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spectrum</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;view__ChartGrid-sc-12swjr9-0 fyLzUC&quot;]/div[@class=&quot;style__Collections-sc-839mu6-34 jWcRsz&quot;]/div[@class=&quot;style__CollectionWrapper-sc-839mu6-35 jDQNvP&quot;]/div[1]/div[@class=&quot;globals__FlexCol-sc-1izft7s-15 style__ListWithTitle-sc-839mu6-30 gAPDWa&quot;]/div[@class=&quot;globals__FlexRow-sc-1izft7s-14 style__ListWrapper-sc-839mu6-32 hJkIIp&quot;]/section[@class=&quot;style__ProfileCardWrapper-sc-839mu6-37 hCqkju&quot;]/div[@class=&quot;style__ProfileContainer-sc-1glfqlb-0 dawKyj&quot;]/div[@class=&quot;style__MetaContainer-sc-1glfqlb-5 bgOWim&quot;]/a[1]/h1[@class=&quot;style__Name-sc-1glfqlb-6 drOdjP&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/div/div[2]/div/div/div/section/div/div[2]/a/h1</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life'])[1]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech'])[1]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join community'])[1]/preceding::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/h1</value>
+   </webElementXpaths>
+</WebElementEntity>

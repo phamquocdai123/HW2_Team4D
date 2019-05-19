@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_TestLoginWithWrongAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1b519a4-7984-4f08-9f33-3e8eafe65773</testCaseGuid>
+</TestCaseEntity>
