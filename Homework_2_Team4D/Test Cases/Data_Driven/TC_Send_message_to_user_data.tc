@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Send_message_to_user_data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d32ddf5-e187-4734-9cfd-1069802cce7e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4dab0e95-03e6-4d34-b7f1-fd410cb6f151</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

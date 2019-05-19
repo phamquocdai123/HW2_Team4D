@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login_Github_data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85db54a0-c382-4a37-9d5b-327fe94c6774</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9ab3448-d469-46b8-a015-b6ee5c635f8c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

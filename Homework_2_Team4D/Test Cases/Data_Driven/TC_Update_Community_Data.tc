@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Update_Community_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c47aefa3-d80f-4f2b-96a9-fa606bb7c783</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc094b9a-1f2d-4b82-a356-9b588ccc0eff</id>
+      <masked>false</masked>
+      <name>Bio</name>
+   </variable>
+</TestCaseEntity>
